@@ -6,7 +6,7 @@ import datetime
 
 #account info for space-track.org
 #free account with minimal verification
-#st = SpaceTrackClient('username', 'password')
+st = SpaceTrackClient('username', 'password')
 
 #list of the cubesats wanted
 cubesats = [225544, 43546,43547,43548,43549,43550,43551,43552,43553,43554]
